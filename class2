@@ -1,0 +1,64 @@
+#CPEG 657 - Search & Data Mining ............. 2/15
+
+###Special ROles of Textual Information
+	* natural encoding
+	* most common type of info
+	* most basic form of info
+	* most useful
+
+###Text Management Applications
+* Access - **Select** Information
+* Mining - **Create** Knowledge
+* Organization - **Add** Structure/Annotations
+
+##Elements of Text info Management Technologies
+>##Search (short-term)
+>* Features
+>	* Query refinement
+>	* Universal Search
+>	* Search Pad (Yahoo)
+>
+>##Mining
+>* Database of Intentions
+>	* Aggregate results of every search ever entered
+>	* Aggregate results of every result
+>	* ...
+> 
+>##Text Summarization
+>* Motivation - Information overload
+>	* 4 Billion URLs indexed by Google
+>* Goal of text summarization
+>	* 
+>* Search Result Summarization (Google Results)
+>
+>##Information Filtering (long-term)
+>* Stable & long term interest
+>* Dynamif info source
+>* System must make a delivery decision
+>* Example - Google Alert, Spam Filter, Collaorative Filtering (Amazon)
+>
+>##Text Categorization
+>* Supervised Learning Problem
+>	* Given a set of pre-given labels, classify new documents
+>* Email Spam Filters
+>* Sentiment Analysis
+>* Example Google News Categories
+>
+>##Clustering Problem
+>* Discover "natural structure"
+>* Group similar objects totgether
+>* Exmple - Google News, Clusty
+>
+>##Information Extraction
+>* Given raw text, identify things like date, location, start-end times, etc
+>* Convert unstructured data to structured data
+>
+>##Information Visualization
+>* Bring information to life
+>* Given a set of text driving directions, display it graphically
+>
+>##Unsolved Problems
+>* Socail Media
+>* Big Data
+>* 
+>
