@@ -17,7 +17,9 @@
   $$IDF(t) = 1 + log(n/k)$$
 
 ###Similarity
-  $$Similarity(D,Q) = \sum_{i=1}^n$$
+  \\[
+  Similarity(D,Q) = \sum_{i=1}^n
+  \\]
   
 ###Similarity (Pivoted Normaliation Formula)
 * Give priority to first occurrance and less to repeated
