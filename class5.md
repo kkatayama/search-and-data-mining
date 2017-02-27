@@ -21,4 +21,6 @@
   
 ###Similarity (Pivoted Normaliation Formula)
 * Give priority to first occurrance and less to repeated
-  $$S(D,Q) = \sum_{t=Q,D} \frac{1+ln(1+ln(c(t,D)}{(1-s)+s \frac{|D|}{avdl}}*c(t,Q)*ln \frac{N+1}{df(t)}$$
+  \\[
+  S(D,Q) = \sum_{t=Q,D} \frac{1+ln(1+ln(c(t,D)}{(1-s)+s \frac{|D|}{avdl}}*c(t,Q)*ln \frac{N+1}{df(t)}
+  \\]
